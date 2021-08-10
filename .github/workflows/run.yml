@@ -26,3 +26,4 @@ jobs:
           sleep 1m
           done
           php tieba.php
+          
